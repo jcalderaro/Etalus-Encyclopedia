@@ -1,7 +1,6 @@
 # Etalus-Encyclopedia
 An Advanced, Technical, Bottom to Top Guide to Etalus in Rivals of Aether.
 
-
 ## Instructions
 
 **Phase One: Landing Page Structure**
@@ -29,3 +28,25 @@ TBA.
 **Phase Four: Top Player Archive**
 
 TBA.
+
+## Project References
+
+Melee Bowser, Rognut's SSBM Almanac. http://rbassbm.blogspot.com/
+
+Melee Zelda, Rienne's Profane Tome. https://www.profaneto.me/
+
+Ori & Sein, Rivals of Aether Guide. https://sites.google.com/site/bosalibrary/
+
+## Coding Application References
+
+For Video Filtering -> https://github.com/jcalderaro/Sprint-Challenge-Lambda-Times-React
+// Goes into using a Navbar to filter out the library of cards.
+
+For CSS Structure -> https://github.com/jcalderaro/Sprint-Challenge--Advanced-CSS
+// Rocket Ship Project with slight mobile dimensions and left and right margins. 
+
+For HTML + CSS -> https://github.com/jcalderaro/Sprint-Challenge--User-Interface
+// Why Did it Have To Be Boxes Project. Has two column body layout, header, logo, and box alignment.
+
+
+
