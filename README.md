@@ -19,7 +19,8 @@ When sculpting out the page, make sure that it is formatted in a presentable man
 - [ ] A Footer + { Contains Discord Links, Icon Logo, and Personal Contact }
 
 - [ ] NEW. Within The Body Section, It Imports Articles. The Code Should have a new HTML file per Article. Then import into rendering all Articles.
-- [] NEW. On Written Guide Page, include small exerpt link hard coded, where a button will drop down into the full Article.
+
+- [ ] NEW. On Written Guide Page, include small exerpt link hard coded, where a button will drop down into the full Article.
 
 **Phase Three: Kang96 Video Archive**
 
