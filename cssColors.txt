@@ -1,0 +1,22 @@
+<------------------------------------------>
+This is the Paragraph Grey Font Color
+    body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #5E6164;
+    /* background-color: #F6F6F6; */
+    }
+<------------------------------------------>
+.
+.
+.
+<------------------------------------------>
+This is the Title Font Colors
+    h5 {
+        font-family: 'Russo One', sans-serif;
+        color: black;
+    }
+<------------------------------------------>
+.
+.
+.
+<------------------------------------------>

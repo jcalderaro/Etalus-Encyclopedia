@@ -136,6 +136,7 @@ html,
 body {
   font-family: 'Ubuntu', sans-serif;
   color: #5E6164;
+  /* background-color: #F6F6F6; */
 }
 @media (max-width: 500px) {
   html,
@@ -149,7 +150,7 @@ h3,
 h4,
 h5 {
   font-family: 'Russo One', sans-serif;
-  color: #23293B;
+  color: black;
 }
 h2 {
   font-size: 3.2rem;
@@ -164,7 +165,7 @@ p {
 .container {
   max-width: 800px;
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto;  
 }
 .navbar {
   background-color: #F6F6F6;
@@ -198,7 +199,7 @@ footer {
   color: #22283B;
   background: #f4f4f4;
   padding: 20px 0;
-  border: 1px double #e0e0e0;
+  border: 5px double #e0e0e0;  /* This impacts the footer copyright */
   border-radius: 10px;
   display: flex;
   justify-content: center;
@@ -229,7 +230,7 @@ footer {
 .home .space-images img {
   width: 28%;
   margin: 20px 2.5%;
-  border-radius: 20px;
+  border-radius: 0px;
   height: 100%;
 }
 .home .visit-planets h3 {
@@ -241,7 +242,7 @@ footer {
 }
 .home .walk {
   margin-top: 60px;
-  border-top: 1px solid #dee2e6;
+  border-top: 5px solid #dee2e6; /* This controls the bottom line */
   padding: 50px 60px;
   display: flex;
   justify-content: center;
@@ -305,19 +306,3 @@ footer {
     width: 100%;
   }
 }
-/* Psuedo Code Please Save Me 
-Firstly gotta use Overflow concepts to remove any horizontal
- scroll bar Maybe we go with like making the outer div or 
- body be width: 100%? Auto?
-Then we gotta snatch the two images that are specifically 
-class image unique named as Sky and and Space and have 
-them go Display: None on the pixel threshold.
-Also important thing will be to make sure the paragraphs like, 
-auto space to the screen? I feel like they'll do that if I remove
- the horizontal bar though.
-Then we need to take the photo Space Walk class and make it stand 
-by itself. The paragraph Let's Go For A Walk would then go under it.
-Then just make the button extend to like, 90% width or something 
-because it's not entirely the whole page but it's definitely 
-bigger than desktop size.
-*/
